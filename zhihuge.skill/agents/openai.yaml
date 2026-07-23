@@ -1,0 +1,4 @@
+interface:
+  display_name: "智虎哥论文框架"
+  short_description: "生成理论与实验闭环的机器学习论文结构和逐句写作蓝图"
+  default_prompt: "使用 $zhihuge-skill 为我的机器学习研究生成章节架构、逐句蓝图和理论—实验映射。"
